@@ -39,14 +39,17 @@ During the project preparation, the following tools were used:
 
 * Was used first for data exploration, then for cleaning and preparing the data, then for feature engineering, and finally, for data exploration and analysis.
 *The data was exported to a new Excel file called "video games edited with Python".
+* Uploaded a file containing the Python script to the repository.
    
 2- Microsoft SQL Management Server (MSMS):
 
-Used for developing more detailed tables outside the existing ones using queries.
+* Used for developing more detailed tables outside the existing ones using queries.
+* Uploaded a file containing the SQL script to the repository.
+
 
 3- Power Query:
 
-Used to manipulate data by splitting the existing table into several tables - one fact table and the others dim tables.
+* Used to manipulate data by splitting the existing table into several tables - one fact table and the others dim tables.
 * Used for preparing the tables for the Power BI visualization.
 
 4- Power BI:
@@ -59,29 +62,38 @@ Used to manipulate data by splitting the existing table into several tables - on
 
 Methodology:
 
-* The analysis is made only on video games that were released between the years 2000 - 2016 due to lack of information about games released after 2016, and because games that       released before 2000 are may be less relevant to today's industry.
-* The table that figure 4 is based on including just platform with over 100 games, in order to avoid conclusion based on a small sample.
+* Due to a lack of information regarding video games released after 2016, as well as the fact that video games released before 2000 may be less relevant to today's industry, the analysis only applies to video games released between 2000 and 2016.
+* In order to avoid conclusions based on a small sample, figure 4 includes just platforms with over 100 games.
 
 
 
 
 Notes:
 
-* The number of games released by year is dropping after year 2009, it might be due to lagged data back in the time the data set was created, it can be also due to more expensive   budget requires to a game with the rising of the PS4 platform.
+* There is a definite drop off in the number of games released after the year 2009, perhaps due to lagged data back in the time when the data set was created, and less likely, due   to the more expensive budget needed for a game with the rise of the PlayStation 4.
 
 
 
-Important missing data:
 
-•	The price of a game.
-•	Profit from the game.
-•	Time of release – day and month.
-•	The budget of the game.
-•	Countries were the games released.
-•	The languages support the game.
-•	Full data about scores, rating, etc..
-•	When was the critic score given?
-•	The grow of sales and users count over the years.
+Missing data that would lead to a better analysis:
+
+•	A game's price.
+
+•	Game profits.
+
+•	Release date - day and month.
+
+•	Game budget.
+
+•	The countries where  the game was released.
+
+•	Languages supported by the game.
+
+•	Full data on scores, rating, etc.
+
+•	When was the critic score given.
+
+•	The growth of sales and users over the years.
 
 
 
@@ -89,12 +101,10 @@ Important missing data:
 
 Insights and conclusions:
 
-* The shooter genre is one of the leading ones with the higest percents of games in the top 10% of total sales and with the higest average sales.
-* Based on the existing data it is clearly that the trend the most successful genres are shooter, platform, role playing and sports, so therefore will be good considering           producing games in these platforms.
-* Games in the platforms genre are also in the top of higest percents of games in the top 10% of total sales and in the top higest average sales.
-* In the last years (up to 2016) the rising platform in terms of number of games were released in them was PS4.
-* There is a very strong correlation between the sales in different locations.
-* Games that were criticized are likely to have higher sales.
-* Games that were given rating are are likely to have higher sales.
-* Games for adults are with the highest average total sales.
+* Based on the available data, it is evident that the most successful genres are shooter, platform, role-playing, and sports, so it may be beneficial to consider making games in     these genres.
+* Based on the number of games released in them in the previous years (to 2016), PS4 was rising with popularity.
+* There is a very strong correlation between sales in different locations.
+* It is likely that criticized games will sell more than those that weren't.
+* Games that were rated are likely to have higher sales.
+* Games for adults have the highest average total sales.
 

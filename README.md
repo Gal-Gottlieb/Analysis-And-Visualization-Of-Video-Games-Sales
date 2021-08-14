@@ -25,6 +25,8 @@ Data columns description:
 17.	Rating - The ESRB ratings – Entertainment SOFTWARE RATING BOARD.
 
 
+
+
 Video games are an industry that has grown quickly in recent years and is expected to grow rapidly in the coming years, partly due to the COVID-19 and its short and long-term effects that contribute to its growth.
 
 The project goal is to help James, VP of Product Management at a technology company that plans to expand to the video games market. He aims to gain a comprehensive understanding of the video games market and areas he should focus on to determine whether or not to enter the market.
@@ -51,3 +53,48 @@ Used to manipulate data by splitting the existing table into several tables - on
 
 * Used first to create a Data Warehouse (DWH).
 * Used to generate the visualization - based on existing fields and new measures.
+
+
+
+
+Methodology:
+
+* The analysis is made only on video games that were released between the years 2000 - 2016 due to lack of information about games released after 2016, and because games that       released before 2000 are may be less relevant to today's industry.
+* The table that figure 4 is based on including just platform with over 100 games, in order to avoid conclusion based on a small sample.
+
+
+
+
+Notes:
+
+* The number of games released by year is dropping after year 2009, it might be due to lagged data back in the time the data set was created, it can be also due to more expensive   budget requires to a game with the rising of the PS4 platform.
+
+
+
+Important missing data:
+
+•	The price of a game.
+•	Profit from the game.
+•	Time of release – day and month.
+•	The budget of the game.
+•	Countries were the games released.
+•	The languages support the game.
+•	Full data about scores, rating, etc..
+•	When was the critic score given?
+•	The grow of sales and users count over the years.
+
+
+
+
+
+Insights and conclusions:
+
+* The shooter genre is one of the leading ones with the higest percents of games in the top 10% of total sales and with the higest average sales.
+* Based on the existing data it is clearly that the trend the most successful genres are shooter, platform, role playing and sports, so therefore will be good considering           producing games in these platforms.
+* Games in the platforms genre are also in the top of higest percents of games in the top 10% of total sales and in the top higest average sales.
+* In the last years (up to 2016) the rising platform in terms of number of games were released in them was PS4.
+* There is a very strong correlation between the sales in different locations.
+* Games that were criticized are likely to have higher sales.
+* Games that were given rating are are likely to have higher sales.
+* Games for adults are with the highest average total sales.
+

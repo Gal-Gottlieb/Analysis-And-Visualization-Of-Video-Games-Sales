@@ -8,23 +8,23 @@ https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
 
 Data columns description:
 
-1.	Rank - Ranking of overall sales
-2.	Name - The games name
-3.	Platform - Platform of the games release (i.e., PC,PS4, etc.)
-4.	Year - Year of the game's release
-5.	Genre - Genre of the game
-6.	Publisher - Publisher of the game
-7.	NA_Sales - Sales in North America (in millions)
-8.	EU_Sales - Sales in Europe (in millions)
-9.	JP_Sales - Sales in Japan (in millions)
-10.	Other_Sales - Sales in the rest of the world (in millions)
-11.	Global_Sales - Total worldwide sales.
-12.	Critic_score - Aggregate score compiled by Metacritic staff
-13.	Critic_count - The number of critics users.
-14.	User_score - Score by Metacritic's subscribers
-15.	User_count - Number of users who gave a score to the game.
-16.	Developer - Party responsible for creating the game.
-17.	Rating - The ESRB ratings – Entertainment SOFTWARE RATING BOARD.
+1. 	Rank - Ranking of overall sales
+2.	 Name - The games name
+3.	 Platform - Platform of the games release (i.e., PC,PS4, etc.)
+4.	 Year - Year of the game's release
+5.	 Genre - Genre of the game
+6.	 Publisher - Publisher of the game
+7.	 NA_Sales - Sales in North America (in millions)
+8.	 EU_Sales - Sales in Europe (in millions)
+9.	 JP_Sales - Sales in Japan (in millions)
+10. Other_Sales - Sales in the rest of the world (in millions)
+11. Global_Sales - Total worldwide sales.
+12. Critic_score - Aggregate score compiled by Metacritic staff
+13. Critic_count - The number of critics users.
+14. User_score - Score by Metacritic's subscribers
+15. User_count - Number of users who gave a score to the game.
+16. Developer - Party responsible for creating the game.
+17. Rating - The ESRB ratings – Entertainment SOFTWARE RATING BOARD.
 
 
 
@@ -33,7 +33,7 @@ Video games are an industry that has grown quickly in recent years and is expect
 
 The project goal is to help James, VP of Product Management at a technology company that plans to expand to the video games market. He aims to gain a comprehensive understanding of the video games market and areas he should focus on to determine whether or not to enter the market.
 
-James' persona profile is included in a Power Point file in the repository.
+* Mikes' persona profile is included in a PowerPoint file in the repository.
 
 During the project preparation, the following tools were used:
 

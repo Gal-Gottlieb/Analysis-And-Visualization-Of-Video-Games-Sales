@@ -1,8 +1,10 @@
 # Analysis-And-Visualization-Of-Video-Games-Sales
 An Analysis and visualization of video game sales data between 2000 and 2016 using Python, SQL, and Power BI.
 
-Data for this analysis is taken from a csv file named Video_Games_Sales_as_at_22_Dec_2016.csv in the following Kaggle profile:
+Data for this analysis is taken from a CSV file named Video_Games_Sales_as_at_22_Dec_2016.csv in the following Kaggle profile:
 https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
+
+* The CSV file is in the repository.
 
 Data columns description:
 

@@ -10,7 +10,7 @@ Here is a link to the Power BI public visualization:
 https://app.powerbi.com/groups/me/reports/d4239a35-2cef-40f3-8fce-a878541f364d?pbi_source=desktop
 
 
-* Note that you need a Power BI account to view it. A screenshot of the visualization is in the repository.
+* Note that you need a Power BI account to view it. A PDF of the visualization is in the repository.
 
 
 Data columns description:

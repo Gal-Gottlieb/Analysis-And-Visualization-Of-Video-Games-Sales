@@ -6,6 +6,12 @@ https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
 
 * The CSV file is in the repository.
 
+Here is a link to the Power BI public visualization:
+https://app.powerbi.com/groups/me/reports/d4239a35-2cef-40f3-8fce-a878541f364d/ReportSectione823e96e8e1f731b321a
+
+* Note that you need a Power BI account to view it. A screenshot of the visualization is in the repository.
+
+
 Data columns description:
 
 1. 	Rank - Ranking of overall sales
